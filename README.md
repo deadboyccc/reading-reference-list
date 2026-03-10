@@ -1,4 +1,4 @@
-### **The Ultimate Solutions Architect Curriculum (68 Books)**
+### **The Ultimate Curriculum (68 Books)**
 
 ---
 
