@@ -1,10 +1,14 @@
 # The Ultimate Curriculum
 ### 70 Books for Software Engineers, Systems Designers & Backend Developers
-> Focused on the **Java · Kotlin · Spring** ecosystem with deep coverage of distributed systems, architecture, and engineering craft.
+
+> Focused on the **Java · Kotlin · Spring** ecosystem with deep coverage of  
+> distributed systems, architecture, and engineering craft.  
+> *Last updated March 2026*
 
 ---
 
-## 1. Core Foundations — Math, Logic & Probability
+## 1 · Core Foundations
+### Math, Logic & Probability
 
 **1. [Concrete Mathematics](https://www.amazon.com/s?k=Concrete+Mathematics+Graham+Knuth+Patashnik)**
 Ronald Graham, Donald Knuth & Oren Patashnik
@@ -17,7 +21,7 @@ F.M. Dekking et al.
 
 ---
 
-## 2. Computer Systems & Hardware
+## 2 · Computer Systems & Hardware
 
 **4. [Computer Systems: A Programmer's Perspective](https://www.amazon.com/s?k=Computer+Systems+A+Programmers+Perspective+Bryant+OHallaron)**
 Randal Bryant & David O'Hallaron
@@ -27,7 +31,7 @@ Remzi & Andrea Arpaci-Dusseau
 
 ---
 
-## 3. Networking & Linux Systems Programming
+## 3 · Networking & Linux Systems Programming
 
 **6. [Computer Networking: A Top-Down Approach](https://www.amazon.com/s?k=Computer+Networking+A+Top+Down+Approach+Kurose+Ross)**
 James Kurose & Keith Ross
@@ -37,7 +41,7 @@ Michael Kerrisk
 
 ---
 
-## 4. Algorithms & Data Structures
+## 4 · Algorithms & Data Structures
 
 **8. [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/s?k=A+Common+Sense+Guide+to+Data+Structures+and+Algorithms)**
 Jay Wengrow
@@ -50,7 +54,8 @@ Adnan Aziz, Tsung-Hsien Lee & Amit Prakash
 
 ---
 
-## 5. Java & Kotlin — Core Language
+## 5 · Java & Kotlin
+### Core Language
 
 **11. [Effective Java](https://www.amazon.com/s?k=Effective+Java+Joshua+Bloch)**
 Joshua Bloch
@@ -64,35 +69,29 @@ Marcin Moskala
 **14. [Kotlin in Action](https://www.amazon.com/s?k=Kotlin+in+Action)**
 Dmitry Jemerov & Svetlana Isakova
 
----
+**15. [Joy of Kotlin](https://www.amazon.com/s?k=Joy+of+Kotlin+Saumont)**
+Pierre-Yves Saumont
 
-## 6. Java & Kotlin — Concurrency & Performance
+### Concurrency & Performance
 
-**15. [Java Concurrency in Practice](https://www.amazon.com/s?k=Java+Concurrency+in+Practice)**
+**16. [Java Concurrency in Practice](https://www.amazon.com/s?k=Java+Concurrency+in+Practice)**
 Brian Goetz et al.
 
-**16. [Modern Concurrency in Java](https://www.amazon.com/s?k=Modern+Concurrency+in+Java)**
+**17. [Modern Concurrency in Java](https://www.amazon.com/s?k=Modern+Concurrency+in+Java)**
 Anghel Leonard
 
-**17. [Kotlin Coroutines Deep Dive](https://www.amazon.com/s?k=Kotlin+Coroutines+Deep+Dive)**
+**18. [Kotlin Coroutines Deep Dive](https://www.amazon.com/s?k=Kotlin+Coroutines+Deep+Dive)**
 Marcin Moskala
 
-**18. [Optimizing Cloud Native Java](https://www.amazon.com/s?k=Optimizing+Cloud+Native+Java)**
+**19. [Optimizing Cloud Native Java](https://www.amazon.com/s?k=Optimizing+Cloud+Native+Java)**
 Benjamin J. Evans, James Gough & Chris Newland
 
-**19. [Systems Performance](https://www.amazon.com/s?k=Systems+Performance+Brendan+Gregg)**
+**20. [Systems Performance](https://www.amazon.com/s?k=Systems+Performance+Brendan+Gregg)**
 Brendan Gregg
 
 ---
 
-## 7. Java & Kotlin — Functional Programming
-
-**20. [Joy of Kotlin](https://www.amazon.com/s?k=Joy+of+Kotlin+Saumont)**
-Pierre-Yves Saumont
-
----
-
-## 8. Spring Framework, Reactive & API Development
+## 6 · Spring Framework, Reactive & API Development
 
 **21. [Pro Spring 6](https://www.amazon.com/s?k=Pro+Spring+6)**
 Chris Schaefer & Clarence Ho
@@ -114,7 +113,7 @@ Kasun Indrasiri & Danesh Kuruppu
 
 ---
 
-## 9. Data-Intensive Systems & Databases
+## 7 · Data-Intensive Systems & Databases
 
 **27. [Designing Data-Intensive Applications](https://www.amazon.com/s?k=Designing+Data+Intensive+Applications)**
 Martin Kleppmann
@@ -136,7 +135,7 @@ Roberto Vitillo
 
 ---
 
-## 10. Stream Processing & Messaging
+## 8 · Stream Processing & Messaging
 
 **33. [Kafka: The Definitive Guide](https://www.amazon.com/s?k=Kafka+The+Definitive+Guide)**
 Gwen Shapira, Todd Palino, Rajini Sivaram & Krit Petty
@@ -155,7 +154,7 @@ Adam Bellemare
 
 ---
 
-## 11. Microservices
+## 9 · Microservices
 
 **38. [Building Microservices](https://www.amazon.com/s?k=Building+Microservices+Sam+Newman)**
 Sam Newman
@@ -168,7 +167,7 @@ Chris Richardson
 
 ---
 
-## 12. Domain-Driven Design
+## 10 · Domain-Driven Design
 
 **41. [Domain-Driven Design](https://www.amazon.com/s?k=Domain+Driven+Design+Eric+Evans)**
 Eric Evans
@@ -181,7 +180,7 @@ Vlad Khononov
 
 ---
 
-## 13. Software Architecture
+## 11 · Software Architecture
 
 **44. [Fundamentals of Software Architecture](https://www.amazon.com/s?k=Fundamentals+of+Software+Architecture)**
 Mark Richards & Neal Ford
@@ -192,33 +191,33 @@ Martin Fowler
 **46. [Building Evolutionary Architectures](https://www.amazon.com/s?k=Building+Evolutionary+Architectures)**
 Neal Ford, Rebecca Parsons & Patrick Kua
 
-**47. [Cloud Design Patterns](https://www.amazon.com/s?k=Cloud+Design+Patterns)**
-Microsoft Azure Team
-
-**48. [API Design Patterns](https://www.amazon.com/s?k=API+Design+Patterns+Geewax)**
+**47. [API Design Patterns](https://www.amazon.com/s?k=API+Design+Patterns+Geewax)**
 J.J. Geewax
+
+**48. [Building Secure and Reliable Systems](https://www.amazon.com/s?k=Building+Secure+and+Reliable+Systems+Adkins)**
+Heather Adkins et al. — Google
 
 ---
 
-## 14. Cloud Native, Containers & DevOps
+## 12 · Cloud Native, Containers & DevOps
 
-**49. [AWS in Action](https://www.amazon.com/s?k=AWS+in+Action)**
-Michael Wittig & Andreas Wittig
+**49. [Continuous Delivery](https://www.amazon.com/s?k=Continuous+Delivery+Humble+Farley)**
+Jez Humble & David Farley
 
-**50. [Cloud Native Patterns](https://www.amazon.com/s?k=Cloud+Native+Patterns)**
-Cornelia Davis
-
-**51. [Cloud Native Infrastructure](https://www.amazon.com/s?k=Cloud+Native+Infrastructure)**
-Justin Garrison & Kris Nova
-
-**52. [Docker: Up & Running](https://www.amazon.com/s?k=Docker+Up+and+Running+Kane+Matthias)**
+**50. [Docker: Up & Running](https://www.amazon.com/s?k=Docker+Up+and+Running+Kane+Matthias)**
 Sean Kane & Karl Matthias
 
-**53. [Kubernetes: Up & Running](https://www.amazon.com/s?k=Kubernetes+Up+%26+Running)**
+**51. [Kubernetes: Up & Running](https://www.amazon.com/s?k=Kubernetes+Up+%26+Running)**
 Brendan Burns, Joe Beda & Kelsey Hightower
 
-**54. [Kubernetes Patterns](https://www.amazon.com/s?k=Kubernetes+Patterns)**
+**52. [Kubernetes Patterns](https://www.amazon.com/s?k=Kubernetes+Patterns)**
 Bilgin Ibryam & Roland Huß
+
+**53. [Production Kubernetes](https://www.amazon.com/s?k=Production+Kubernetes+Rosso)**
+Josh Rosso, Chris Short, Alex Brand & John Harris
+
+**54. [AWS in Action](https://www.amazon.com/s?k=AWS+in+Action)**
+Michael Wittig & Andreas Wittig
 
 **55. [OAuth 2 in Action](https://www.amazon.com/s?k=OAuth+2+in+Action)**
 Justin Richer & Antonio Sanso
@@ -228,7 +227,7 @@ Charity Majors, Liz Fong-Jones & George Miranda
 
 ---
 
-## 15. Software Craftsmanship & Design
+## 13 · Software Craftsmanship & Design
 
 **57. [Clean Code](https://www.amazon.com/s?k=Clean+Code+Robert+C+Martin)**
 Robert C. Martin
@@ -253,7 +252,7 @@ John Ousterhout
 
 ---
 
-## 16. Testing
+## 14 · Testing
 
 **64. [Unit Testing Principles, Practices, and Patterns](https://www.amazon.com/s?k=Unit+Testing+Principles+Practices+and+Patterns)**
 Vladimir Khorikov
@@ -266,7 +265,7 @@ Mauricio Aniche
 
 ---
 
-## 17. Reliability & System Design
+## 15 · Reliability & System Design
 
 **67. [Release It!](https://www.amazon.com/s?k=Release+It+Michael+Nygard)**
 Michael Nygard
@@ -282,4 +281,4 @@ Alex Xu
 
 ---
 
-*70 books across 17 sections — last updated March 2026*
+*70 books · 15 sections*
