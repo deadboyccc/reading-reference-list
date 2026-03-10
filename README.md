@@ -1,4 +1,4 @@
-### **The Ultimate Curriculum (68 Books)**
+### **The Ultimate Solutions Architect Curriculum (68 Books)**
 
 ---
 
@@ -14,7 +14,6 @@
 5. **Operating Systems: Three Easy Pieces**
 6. **Computer Networking: A Top-Down Approach**
 7. **The Linux Programming Interface**
-
 
 ---
 
@@ -55,7 +54,6 @@
 29. **Kafka: The Definitive Guide**
 30. **Kafka Streams in Action**
 31. **Understanding Distributed Systems**
-
 
 ---
 
