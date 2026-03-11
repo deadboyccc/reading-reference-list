@@ -1,14 +1,14 @@
 # The Ultimate Curriculum
-### 70 Books for Software Engineers, Systems Designers & Backend Developers
+### 70 Books · 15 Sections · 20+ University Course Pairings
 
-> Focused on the **Java · Kotlin · Spring** ecosystem with deep coverage of  
-> distributed systems, architecture, and engineering craft.  
+> A zero-gap roadmap from First Principles to Staff-level Architecture, focused on the **Java · Kotlin · Spring** ecosystem with deep coverage of distributed systems and engineering craft.
 > *Last updated March 2026*
 
 ---
 
 ## 1 · Core Foundations
 ### Math, Logic & Probability
+**🎓 Lectures:** [MIT 6.042J · Mathematics for CS](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | [Harvard CS20 · Discrete Math](https://canvas.harvard.edu/courses/10664)
 
 **1. [Concrete Mathematics](https://www.amazon.com/s?k=Concrete+Mathematics+Graham+Knuth+Patashnik)**
 Ronald Graham, Donald Knuth & Oren Patashnik
@@ -22,6 +22,9 @@ F.M. Dekking et al.
 ---
 
 ## 2 · Computer Systems & Hardware
+**🎓 Lectures:** [CMU 15-213 · Intro to Computer Systems](https://www.cs.cmu.edu/~213/) | [UC Berkeley CS61C · Machine Structures](https://cs61c.org/)
+
+
 
 **4. [Computer Systems: A Programmer's Perspective](https://www.amazon.com/s?k=Computer+Systems+A+Programmers+Perspective+Bryant+OHallaron)**
 Randal Bryant & David O'Hallaron
@@ -32,6 +35,9 @@ Remzi & Andrea Arpaci-Dusseau
 ---
 
 ## 3 · Networking & Linux Systems Programming
+**🎓 Lectures:** [Stanford CS144 · Intro to Networking](https://cs144.github.io/) | [UC Berkeley CS168 · Intro to the Internet](https://cs168.io/)
+
+
 
 **6. [Computer Networking: A Top-Down Approach](https://www.amazon.com/s?k=Computer+Networking+A+Top+Down+Approach+Kurose+Ross)**
 James Kurose & Keith Ross
@@ -42,6 +48,7 @@ Michael Kerrisk
 ---
 
 ## 4 · Algorithms & Data Structures
+**🎓 Lectures:** [MIT 6.006 · Intro to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | [Princeton Algorithms Part I & II](https://www.coursera.org/learn/algorithms-part1)
 
 **8. [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/s?k=A+Common+Sense+Guide+to+Data+Structures+and+Algorithms)**
 Jay Wengrow
@@ -55,8 +62,9 @@ Adnan Aziz, Tsung-Hsien Lee & Amit Prakash
 ---
 
 ## 5 · Java & Kotlin
-### Core Language
+**🎓 Lectures:** [UC Berkeley CS61B · Data Structures (Java)](https://sp21.datastructur.es/) | [CMU 15-418 · Parallel Computing](http://15418.courses.cs.cmu.edu/)
 
+### Core Language
 **11. [Effective Java](https://www.amazon.com/s?k=Effective+Java+Joshua+Bloch)**
 Joshua Bloch
 
@@ -73,7 +81,6 @@ Dmitry Jemerov & Svetlana Isakova
 Pierre-Yves Saumont
 
 ### Concurrency & Performance
-
 **16. [Java Concurrency in Practice](https://www.amazon.com/s?k=Java+Concurrency+in+Practice)**
 Brian Goetz et al.
 
@@ -92,6 +99,7 @@ Brendan Gregg
 ---
 
 ## 6 · Spring Framework, Reactive & API Development
+**🎓 Lectures:** [Spring Academy (Official)](https://spring.academy/) | [Stanford CS142 · Web Applications](https://web.stanford.edu/class/cs142/)
 
 **21. [Pro Spring 6](https://www.amazon.com/s?k=Pro+Spring+6)**
 Chris Schaefer & Clarence Ho
@@ -114,6 +122,9 @@ Kasun Indrasiri & Danesh Kuruppu
 ---
 
 ## 7 · Data-Intensive Systems & Databases
+**🎓 Lectures:** [CMU 15-445 · Database Systems](https://15445.courses.cs.cmu.edu/) | [UC Berkeley CS186 · Databases](https://cs186berkeley.net/)
+
+
 
 **27. [Designing Data-Intensive Applications](https://www.amazon.com/s?k=Designing+Data+Intensive+Applications)**
 Martin Kleppmann
@@ -136,6 +147,7 @@ Roberto Vitillo
 ---
 
 ## 8 · Stream Processing & Messaging
+**🎓 Lectures:** [MIT 6.5840 · Distributed Systems](https://6824.scripts.mit.edu/)
 
 **33. [Kafka: The Definitive Guide](https://www.amazon.com/s?k=Kafka+The+Definitive+Guide)**
 Gwen Shapira, Todd Palino, Rajini Sivaram & Krit Petty
@@ -155,6 +167,7 @@ Adam Bellemare
 ---
 
 ## 9 · Microservices
+**🎓 Lectures:** [MIT 6.5840 (Formerly 6.824)](https://ocw.mit.edu/courses/6-824-distributed-systems-spring-2020/) | [Stanford CS244B · Distributed Systems](https://cs244b.stanford.edu/)
 
 **38. [Building Microservices](https://www.amazon.com/s?k=Building+Microservices+Sam+Newman)**
 Sam Newman
@@ -168,6 +181,7 @@ Chris Richardson
 ---
 
 ## 10 · Domain-Driven Design
+**🎓 Lectures:** [MIT 6.102 · Software Construction](https://web.mit.edu/6.102/www/)
 
 **41. [Domain-Driven Design](https://www.amazon.com/s?k=Domain+Driven+Design+Eric+Evans)**
 Eric Evans
@@ -181,6 +195,7 @@ Vlad Khononov
 ---
 
 ## 11 · Software Architecture
+**🎓 Lectures:** [CMU 17-214 · Principles of Software Construction](https://www.cs.cmu.edu/~schneide/17214/sp23/) | [MIT 6.102 Architecture Modules](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/)
 
 **44. [Fundamentals of Software Architecture](https://www.amazon.com/s?k=Fundamentals+of+Software+Architecture)**
 Mark Richards & Neal Ford
@@ -200,6 +215,7 @@ Heather Adkins et al. — Google
 ---
 
 ## 12 · Cloud Native, Containers & DevOps
+**🎓 Lectures:** [CMU 15-719 · Advanced Cloud Computing](http://www.cs.cmu.edu/~15719/) | [MIT 6.824 Cloud Engineering Labs](https://6824.scripts.mit.edu/)
 
 **49. [Continuous Delivery](https://www.amazon.com/s?k=Continuous+Delivery+Humble+Farley)**
 Jez Humble & David Farley
@@ -228,6 +244,7 @@ Charity Majors, Liz Fong-Jones & George Miranda
 ---
 
 ## 13 · Software Craftsmanship & Design
+**🎓 Lectures:** [Stanford CS108 · Object-Oriented Systems](https://web.stanford.edu/class/cs108/) | [MIT 6.102 Construction](https://web.mit.edu/6.102/www/)
 
 **57. [Clean Code](https://www.amazon.com/s?k=Clean+Code+Robert+C+Martin)**
 Robert C. Martin
@@ -253,6 +270,7 @@ John Ousterhout
 ---
 
 ## 14 · Testing
+**🎓 Lectures:** [CMU 17-214 (Quality & Testing)](https://www.cs.cmu.edu/~schneide/17214/sp23/)
 
 **64. [Unit Testing Principles, Practices, and Patterns](https://www.amazon.com/s?k=Unit+Testing+Principles+Practices+and+Patterns)**
 Vladimir Khorikov
@@ -266,6 +284,7 @@ Mauricio Aniche
 ---
 
 ## 15 · Reliability & System Design
+**🎓 Lectures:** [MIT 6.1800 · Computer Systems Engineering](https://web.mit.edu/6.1800/www/) | [MIT 6.858 · Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
 
 **67. [Release It!](https://www.amazon.com/s?k=Release+It+Michael+Nygard)**
 Michael Nygard
@@ -280,5 +299,4 @@ Alex Xu
 Alex Xu
 
 ---
-
 *70 books · 15 sections*
